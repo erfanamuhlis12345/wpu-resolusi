@@ -1,4 +1,6 @@
 gdb
+export
+import
 dxf
 shp
 peta
